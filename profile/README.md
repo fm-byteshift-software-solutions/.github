@@ -21,4 +21,12 @@ All material contained within this organization is the exclusive property of FM 
 For collaboration requests, repository access, or partnership inquiries, contact the organization owners directly through official FM ByteShift Software channels.
 
 ---
-Copyright 2024-2026 FM ByteShift Software. All rights reserved.
+Copyright 2025-2026 FM ByteShift Software. All rights reserved.
+
+## Maintained By
+
+**Fernando Magalhães**  
+CEO – FM ByteShift Software  
+✉️ [contact@fmbyteshiftsoftware.com](mailto:contact@fmbyteshiftsoftware.com)  
+🌐 [fmbyteshiftsoftware.com](https://fmbyteshiftsoftware.com)  
+🏢 CNPJ: 62.145.022/0001-05 (Brazil)
