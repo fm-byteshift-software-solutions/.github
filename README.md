@@ -6,7 +6,7 @@ Private development organization for proprietary software systems and intellectu
 
 | Solution | Description | Status | Access |
 |----------|-------------|--------|--------|
-| **[Brief Synthesis](https://github.com/fmbyteshiftsoftware/brief-synthesis)** | AI-powered pipeline for project intelligence and strategic proposal drafting. Transforms raw briefs into structured analysis, risk assessment, PoC strategy, and engagement proposals via multi-layered inference. | MVP v0.2 — Early Adopter Validation | 🔒 Private — [Request Access](#contact--access) |
+| **[Brief Synthesis](https://github.com/fm-byteshift-software-solutions/brief-synthesis)** | AI-powered pipeline for project intelligence and strategic proposal drafting. Transforms raw briefs into structured analysis, risk assessment, PoC strategy, and engagement proposals via multi-layered inference. | MVP v0.2 — Early Adopter Validation | 🔒 Private — [Request Access](#contact--access) |
 
 > **Note:** All solutions are developed under FM ByteShift Software's proprietary methodology. Access requires explicit authorization and adherence to internal IP guidelines.
 
