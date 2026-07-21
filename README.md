@@ -8,6 +8,7 @@ Private development organization for proprietary software systems and intellectu
 |----------|-------------|--------|--------|
 | **[Brief Synthesis](https://github.com/fm-byteshift-software-solutions/brief-synthesis)** | AI-powered pipeline for project intelligence and strategic proposal drafting. Transforms raw briefs into structured analysis, risk assessment, PoC strategy, and engagement proposals via multi-layered inference. | MVP v0.2 — Early Adopter Validation | 🔒 Private — [Request Access](#contact--access) |
 | **[Market Pain Intelligence](https://github.com/fm-byteshift-software-solutions/market-pain-intelligence)** | An internal market intelligence and trend synthesis platform. This system monitors professional marketplaces, ingests demand data, and leverages AI to transform real-world client pain points into structured Software-as-a-Service (SaaS) product hypotheses, MVP specifications, and market narratives for content creation. | MVP v0.1 — Auth/Authorization Layer | 🔒 Private — [Request Access](#contact--access) |
+| **[Lead Engine](https://github.com/fm-byteshift-software-solutions/lead-engine)** | An automated pipeline for lead enrichment and targeted multi-channel outreach. | MVP v0.1 — Core Pipeline & Outreach Automation | 🔒 Private — [Request Access](#contact--access) |
 
 > **Note:** All solutions are developed under FM ByteShift Software's proprietary methodology. Access requires explicit authorization and adherence to internal IP guidelines.
 
